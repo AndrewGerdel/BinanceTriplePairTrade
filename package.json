@@ -1,0 +1,22 @@
+{
+  "name": "binancetriplepairtrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewGerdel/BinanceTriplePairTrade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewGerdel/BinanceTriplePairTrade/issues"
+  },
+  "homepage": "https://github.com/AndrewGerdel/BinanceTriplePairTrade#readme",
+  "dependencies": {
+    "binance-api-node": "^0.9.11"
+  }
+}

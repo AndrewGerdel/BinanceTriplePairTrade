@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AndrewGerdel/BinanceTriplePairTrade#readme",
   "dependencies": {
-    "binance-api-node": "^0.9.11"
+    "binance-api-node": "^0.9.11",
+    "yargs": "^15.0.2"
   }
 }
